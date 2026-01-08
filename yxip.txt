@@ -88,6 +88,4 @@ wyt11.dpdns.org:443#域名
 wyt22.dpdns.org:443#域名
 wt520.dynip.org:443#域名
 wt123.2mydns.net:443#域名
-wt520.ye.gs:443#域名
-wt520.let.gs:443#域名
-
+us.wt521.gv.uy:443#域名
