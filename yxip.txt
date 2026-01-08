@@ -93,4 +93,9 @@ ggyt.dpdns.org:443#域名
 wytgjx.dpdns.org:443#域名
 wt520.dpdns.org:443#域名
 us.wt521.gv.uy:443#域名
+gjy.indevs.in:443#域名
+jyg.indevs.in:443#域名
+wyt.indevs.in:443#域名
+gjx.indevs.in:443#域名
+whl.indevs.in:443#域名
 
